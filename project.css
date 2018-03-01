@@ -48,7 +48,7 @@ body{
 	font-family: sans-serif;
 	border-color:black;
   	border-width:5px;
-  	border-style:solid;
+  	border-style:solid;	
   	
 }
 #com{
@@ -60,11 +60,14 @@ body{
 #comments{
 	margin: 30px;
 }
-/*.row{
-	margin-left: 15px;
-	margin-right: 15px;
-}*/
-
+.firstinput{
+ position: relative;
+    left: 1300px;
+    bottom: 100px; 
+    width:150px;
+    height: 30px;
+    font-size:17px;	            
+}
 
 
 
